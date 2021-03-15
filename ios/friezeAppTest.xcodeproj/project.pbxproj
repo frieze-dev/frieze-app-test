@@ -104,7 +104,6 @@
 				E38F151AB19DB6BB83263FA0 /* Pods-friezeAppTest-friezeAppTestTests.debug.xcconfig */,
 				79FD31770B5723BEEC3A03C8 /* Pods-friezeAppTest-friezeAppTestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = RD42NK9P8E;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = friezeAppTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = RD42NK9P8E;
 				INFOPLIST_FILE = friezeAppTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
